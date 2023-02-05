@@ -1,0 +1,29 @@
+.hero{
+    background-color:#97aec9;
+    background-image: url("../thiet-bi-ho-tro-tre-khiem-thi/image/spkt-medium.jpg");
+    color:black;
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-top:15px;
+    padding-bottom:15px;
+}
+body{
+    margin:0;
+    font-family: system-ui;
+}
+.container1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width:70vw;
+    margin: 0 auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+body{
+    margin:0;
+    font-family:system-ui;
+}
+.image__video{
+    object-fit: fill;
+}
